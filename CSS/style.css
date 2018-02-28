@@ -38,7 +38,7 @@ body {
 /* MAIN CONTENT */
 .content {
   display: grid;
-  background-image: url("background.jpg");
+  background-image: url("background.JPG");
   background-size: cover;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
@@ -174,7 +174,7 @@ body {
 
 .photo1{
   grid-area: photo1;
-  background-image: url("photo1.jpg");
+  background-image: url("photo1.JPG");
   background-size: cover;
   opacity: 0.8;
   filter: alpha(opacity=50);
@@ -190,7 +190,7 @@ body {
 
 .photo2{
   grid-area: photo2;
-  background-image: url("photo2.jpg");
+  background-image: url("photo2.JPG");
   background-size: cover;
   opacity: 0.8;
   filter: alpha(opacity=50);
@@ -207,7 +207,7 @@ body {
 
 .photo3{
   grid-area: photo3;
-  background-image: url("photo3.jpg");
+  background-image: url("photo3.JPG");
   background-size: cover;
   opacity: 0.8;
   filter: alpha(opacity=50);
@@ -224,7 +224,7 @@ body {
 
 .photo4{
   grid-area: photo4;
-  background-image: url("photo4.jpg");
+  background-image: url("photo4.JPG");
   background-size: cover;
   opacity: 0.8;
   filter: alpha(opacity=50);
@@ -241,7 +241,7 @@ body {
 
 .photo5{
   grid-area: photo5;
-  background-image: url("photo5.jpg");
+  background-image: url("photo5.JPG");
   background-size: cover;
   opacity: 0.8;
   filter: alpha(opacity=50);
@@ -258,7 +258,7 @@ body {
 
 .photo6{
   grid-area: photo6;
-  background-image: url("photo6.jpg");
+  background-image: url("photo6.JPG");
   background-size: cover;
   opacity: 0.8;
   filter: alpha(opacity=50);
